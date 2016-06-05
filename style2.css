@@ -157,16 +157,16 @@ body {
   transform: scaleY(-1);
 }
 .work-box.tree::after {
-  background-image: url('../images/tree.jpg');
+  background-image: url('../tree.jpg');
 }
 .work-box.building::after {
-  background-image: url('../images/building.jpg');
+  background-image: url('../building.jpg');
 }
 .work-box.lake::after {
-  background-image: url('../images/lake.jpg');
+  background-image: url('../lake.jpg');
 }
 .work-box.sky::after {
-  background-image: url('../images/sky.jpg');
+  background-image: url('../sky.jpg');
 }
 .work-box:nth-child(odd) .work-image {
   margin: 60% 0 0;
